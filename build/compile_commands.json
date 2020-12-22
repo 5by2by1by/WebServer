@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/xlb/Desktop/WebServer/build",
+  "command": "g++  -I/home/xlb/Desktop/WebServer/include  -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb -o CMakeFiles/MyWebServer.dir/src/main.cpp.o -c /home/xlb/Desktop/WebServer/src/main.cpp",
+  "file": "/home/xlb/Desktop/WebServer/src/main.cpp"
+},
+{
+  "directory": "/home/xlb/Desktop/WebServer/build",
+  "command": "g++  -I/home/xlb/Desktop/WebServer/include  -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb -o CMakeFiles/MyWebServer.dir/include/epoll.cpp.o -c /home/xlb/Desktop/WebServer/include/epoll.cpp",
+  "file": "/home/xlb/Desktop/WebServer/include/epoll.cpp"
+},
+{
+  "directory": "/home/xlb/Desktop/WebServer/build",
+  "command": "g++  -I/home/xlb/Desktop/WebServer/include  -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb -o CMakeFiles/MyWebServer.dir/include/requestData.cpp.o -c /home/xlb/Desktop/WebServer/include/requestData.cpp",
+  "file": "/home/xlb/Desktop/WebServer/include/requestData.cpp"
+},
+{
+  "directory": "/home/xlb/Desktop/WebServer/build",
+  "command": "g++  -I/home/xlb/Desktop/WebServer/include  -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb -o CMakeFiles/MyWebServer.dir/include/threadpool.cpp.o -c /home/xlb/Desktop/WebServer/include/threadpool.cpp",
+  "file": "/home/xlb/Desktop/WebServer/include/threadpool.cpp"
+},
+{
+  "directory": "/home/xlb/Desktop/WebServer/build",
+  "command": "g++  -I/home/xlb/Desktop/WebServer/include  -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb -o CMakeFiles/MyWebServer.dir/include/util.cpp.o -c /home/xlb/Desktop/WebServer/include/util.cpp",
+  "file": "/home/xlb/Desktop/WebServer/include/util.cpp"
+}
+]
