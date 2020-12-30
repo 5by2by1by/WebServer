@@ -4,7 +4,7 @@
 # compile CXX with g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/xlb/Desktop/WebServer/include
+CXX_INCLUDES = -I/home/dbl/Desktop/WebServer/include
 
 CXX_FLAGS =  -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb
 

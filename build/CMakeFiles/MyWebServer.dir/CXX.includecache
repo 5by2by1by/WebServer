@@ -52,27 +52,27 @@ pthread.h
 cstdlib
 -
 
-/home/xlb/Desktop/WebServer/include/epoll.cpp
+/home/dbl/Desktop/WebServer/include/epoll.cpp
 epoll.h
-/home/xlb/Desktop/WebServer/include/epoll.h
+/home/dbl/Desktop/WebServer/include/epoll.h
 sys/epoll.h
 -
 errno.h
 -
 threadpool.h
-/home/xlb/Desktop/WebServer/include/threadpool.h
+/home/dbl/Desktop/WebServer/include/threadpool.h
 
-/home/xlb/Desktop/WebServer/include/epoll.h
+/home/dbl/Desktop/WebServer/include/epoll.h
 requestData.h
-/home/xlb/Desktop/WebServer/include/requestData.h
+/home/dbl/Desktop/WebServer/include/requestData.h
 
-/home/xlb/Desktop/WebServer/include/requestData.cpp
+/home/dbl/Desktop/WebServer/include/requestData.cpp
 requestData.h
-/home/xlb/Desktop/WebServer/include/requestData.h
+/home/dbl/Desktop/WebServer/include/requestData.h
 util.h
-/home/xlb/Desktop/WebServer/include/util.h
+/home/dbl/Desktop/WebServer/include/util.h
 epoll.h
-/home/xlb/Desktop/WebServer/include/epoll.h
+/home/dbl/Desktop/WebServer/include/epoll.h
 sys/epoll.h
 -
 unistd.h
@@ -92,7 +92,7 @@ queue
 iostream
 -
 
-/home/xlb/Desktop/WebServer/include/requestData.h
+/home/dbl/Desktop/WebServer/include/requestData.h
 string
 -
 cstring
@@ -100,11 +100,11 @@ cstring
 unordered_map
 -
 requestData.h
-/home/xlb/Desktop/WebServer/include/requestData.h
+/home/dbl/Desktop/WebServer/include/requestData.h
 util.h
-/home/xlb/Desktop/WebServer/include/util.h
+/home/dbl/Desktop/WebServer/include/util.h
 epoll.h
-/home/xlb/Desktop/WebServer/include/epoll.h
+/home/dbl/Desktop/WebServer/include/epoll.h
 sys/epoll.h
 -
 unistd.h
@@ -124,19 +124,19 @@ queue
 iostream
 -
 
-/home/xlb/Desktop/WebServer/include/threadpool.cpp
+/home/dbl/Desktop/WebServer/include/threadpool.cpp
 threadpool.h
-/home/xlb/Desktop/WebServer/include/threadpool.h
+/home/dbl/Desktop/WebServer/include/threadpool.h
 
-/home/xlb/Desktop/WebServer/include/threadpool.h
+/home/dbl/Desktop/WebServer/include/threadpool.h
 requestData.h
-/home/xlb/Desktop/WebServer/include/requestData.h
+/home/dbl/Desktop/WebServer/include/requestData.h
 pthread.h
 -
 
-/home/xlb/Desktop/WebServer/include/util.cpp
+/home/dbl/Desktop/WebServer/include/util.cpp
 util.h
-/home/xlb/Desktop/WebServer/include/util.h
+/home/dbl/Desktop/WebServer/include/util.h
 unistd.h
 -
 fcntl.h
@@ -148,19 +148,19 @@ errno.h
 string.h
 -
 
-/home/xlb/Desktop/WebServer/include/util.h
+/home/dbl/Desktop/WebServer/include/util.h
 cstdlib
 -
 
-/home/xlb/Desktop/WebServer/src/main.cpp
+/home/dbl/Desktop/WebServer/src/main.cpp
 requestData.h
-/home/xlb/Desktop/WebServer/src/requestData.h
+/home/dbl/Desktop/WebServer/src/requestData.h
 epoll.h
-/home/xlb/Desktop/WebServer/src/epoll.h
+/home/dbl/Desktop/WebServer/src/epoll.h
 threadpool.h
-/home/xlb/Desktop/WebServer/src/threadpool.h
+/home/dbl/Desktop/WebServer/src/threadpool.h
 util.h
-/home/xlb/Desktop/WebServer/src/util.h
+/home/dbl/Desktop/WebServer/src/util.h
 sys/epoll.h
 -
 queue

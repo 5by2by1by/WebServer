@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MyWebServer::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MyWebServer-Debug-b2d596ee537992796b3b.json",
+					"jsonFile" : "target-MyWebServer-Debug-684c6edbd8a5125c5564.json",
 					"name" : "MyWebServer",
 					"projectIndex" : 0
 				}
@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/xlb/Desktop/WebServer/build",
-		"source" : "/home/xlb/Desktop/WebServer"
+		"build" : "/home/dbl/Desktop/WebServer/build",
+		"source" : "/home/dbl/Desktop/WebServer"
 	},
 	"version" : 
 	{

@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/xlb/Desktop/WebServer/bin/MyWebServer"
+			"path" : "/home/dbl/Desktop/WebServer/bin/MyWebServer"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/xlb/Desktop/WebServer/include"
+					"path" : "/home/dbl/Desktop/WebServer/include"
 				}
 			],
 			"language" : "CXX",
@@ -85,7 +85,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/home/xlb/Desktop/WebServer/lib",
+				"fragment" : "-L/home/dbl/Desktop/WebServer/lib",
 				"role" : "libraryPath"
 			}
 		],
